@@ -68,34 +68,34 @@ COMMON UNIX COMMANDS:
 # SHELL SCRIPTING
 
 BASIC SCRIPT STRUCTURE:
-Example Script: basic.sh (script\basic.sh)
+Example Script: [basic.sh](script\basic.sh)
 
 VARIABLES:
-Example Script: variables.sh [link](script\variables.sh)
+Example Script:[variables.sh](script\variables.sh)
 
 USER INPUT:
-Example Script: userInput.sh [link](script\userInput.sh)
+Example Script:[userInput.sh](script\userInput.sh)
 
 CONDITIONAL STATEMENTS:
-Example Script: constional.sh [link](script\conditional.sh)
+Example Script:[constional.sh](script\conditional.sh)
 
 LOOPS:
-Example Script: loops.sh [link](script\loops.sh)
+Example Script:[loops.sh](script\loops.sh)
 
 FUNCTIONS:
-Example Script: functions.sh [link](script\functions.sh)
+Example Script:[functions.sh](script\functions.sh)
 
 COMMAND LINE ARGUMENTS:
-Example Script: cmdArguments.sh [link](script\cmdArguments.sh)
+Example Script:[cmdArguments.sh](script\cmdArguments.sh)
 
 FILE OPERATIONS:
-Example Script: fops.sh [link](script\fops.sh)
+Example Script:[fops.sh](script\fops.sh)
 
 ERROR HANDLING:
-Example Script: errorHandling.sh [link](script\errorHandling.sh)
+Example Script:[errorHandling.sh](script\errorHandling.sh)
 
 ENVIRONMENT VARIABLES:
-Example Script: envVar.sh [link](script\envVar.sh)
+Example Script:[envVar.sh](script\envVar.sh)
 
 STRING MANIPULATION:
-Example Script: stringManipulation.sh [link](script\string.sh)
+Example Script:[stringManipulation.sh](script\string.sh)
