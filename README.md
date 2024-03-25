@@ -1,4 +1,5 @@
-UNIX
+# UNIX:
+
 • Everything is a file:In UNIX, everything, including devices and directories, is treated as a file.
 
 • Small, single-purpose programs:The UNIX philosophy encourages the creation of small, modular programs that perform a single task well.
@@ -71,31 +72,31 @@ BASIC SCRIPT STRUCTURE:
 Example Script: [basic.sh](script\basic.sh)
 
 VARIABLES:
-Example Script:[variables.sh](script\variables.sh)
+Example Script: [variables.sh](script\variables.sh)
 
 USER INPUT:
-Example Script:[userInput.sh](script\userInput.sh)
+Example Script: [userInput.sh](script\userInput.sh)
 
 CONDITIONAL STATEMENTS:
-Example Script:[constional.sh](script\conditional.sh)
+Example Script: [constional.sh](script\conditional.sh)
 
 LOOPS:
-Example Script:[loops.sh](script\loops.sh)
+Example Script: [loops.sh](script\loops.sh)
 
 FUNCTIONS:
-Example Script:[functions.sh](script\functions.sh)
+Example Script: [functions.sh](script\functions.sh)
 
 COMMAND LINE ARGUMENTS:
-Example Script:[cmdArguments.sh](script\cmdArguments.sh)
+Example Script: [cmdArguments.sh](script\cmdArguments.sh)
 
 FILE OPERATIONS:
-Example Script:[fops.sh](script\fops.sh)
+Example Script: [fops.sh](script\fops.sh)
 
 ERROR HANDLING:
-Example Script:[errorHandling.sh](script\errorHandling.sh)
+Example Script: [errorHandling.sh](script\errorHandling.sh)
 
 ENVIRONMENT VARIABLES:
-Example Script:[envVar.sh](script\envVar.sh)
+Example Script: [envVar.sh](script\envVar.sh)
 
 STRING MANIPULATION:
-Example Script:[stringManipulation.sh](script\string.sh)
+Example Script: [stringManipulation.sh](script\string.sh)
